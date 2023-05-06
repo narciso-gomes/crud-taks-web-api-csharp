@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{E768454F-AB35-4E70-A56D-293D642CC013}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="sistema-de-tarefas/Repositorios/Interfaces/IUsuarioRepositorio.cs">
+    <Files>
+      <File FileName="sistema-de-tarefas/Controllers/UsuarioController.cs" Line="11" Column="10" />
+      <File FileName="sistema-de-tarefas/Models/TarefaModel.cs" Line="2" Column="28" />
+      <File FileName="sistema-de-tarefas/Models/UsuarioModel.cs" Line="2" Column="28" />
+      <File FileName="sistema-de-tarefas/Data/SistemaDeTarefasDBContext.cs" Line="22" Column="1" />
+      <File FileName="sistema-de-tarefas/Repositorios/Interfaces/IUsuarioRepositorio.cs" Line="8" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SistemaDeTarefas" expanded="True">
+            <Node name="SistemaDeTarefas" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Repositorios" expanded="True">
+                <Node name="Interfaces" expanded="True">
+                  <Node name="IUsuarioRepositorio.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SistemaDeTarefas PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
